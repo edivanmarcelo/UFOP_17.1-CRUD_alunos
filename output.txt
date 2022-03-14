@@ -1,0 +1,426 @@
+01 - Questão AVL
+02 - Questão Hash
+00 - Sair
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Aluno já cadastrado
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Alunos:
+
+Dados do Aluno
+Nome: Helen
+Idade: 19
+CPF: 136
+Curso: Arq
+Matricula: 1262
+
+Dados do Aluno
+Nome: Gabriela
+Idade: 19
+CPF: 125
+Curso: Bio
+Matricula: 1517
+
+Dados do Aluno
+Nome: Maycon
+Idade: 19
+CPF: 130
+Curso: Bio
+Matricula: 2023
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Encontrado!
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Nome: 
+Curso
+CPF: 
+Idade: 
+Atualizado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Encontrado!
+
+Dados do Aluno
+Nome: Maycon
+Idade: 20
+CPF: 138
+Curso: Bio
+Matricula: 2023
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Removido!!
+
+Dados do Aluno
+Nome: Gabriela
+Idade: 19
+CPF: 125
+Curso: Bio
+Matricula: 1517
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Alunos:
+
+Dados do Aluno
+Nome: Helen
+Idade: 19
+CPF: 136
+Curso: Arq
+Matricula: 1262
+
+Dados do Aluno
+Nome: Maycon
+Idade: 20
+CPF: 138
+Curso: Bio
+Matricula: 2023
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+
+01 - Questão AVL
+02 - Questão Hash
+00 - Sair
+Numero de Listas: 
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Nome:
+Curso:
+CPF:
+Matricula:
+Idade:
+Cadastrado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Alunos:
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+Dados do Aluno
+Nome: Gabriela
+Idade: 19
+CPF: 125
+Curso: Bio
+Matricula: 1517
+
+Dados do Aluno
+Nome: Helen
+Idade: 19
+CPF: 136
+Curso: Arq
+Matricula: 1262
+
+Dados do Aluno
+Nome: Maycon
+Idade: 19
+CPF: 130
+Curso: Bio
+Matricula: 2023
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Encontrado!
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Nome: 
+Curso
+CPF: 
+Idade: 
+Atualizado!!
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Encontrado!
+
+Dados do Aluno
+Nome: Maycon
+Idade: 20
+CPF: 138
+Curso: Bio
+Matricula: 2023
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Matricula: 
+Removido!!
+
+Dados do Aluno
+Nome: Gabriela
+Idade: 19
+CPF: 125
+Curso: Bio
+Matricula: 1517
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+Alunos:
+
+Dados do Aluno
+Nome: Marcelo
+Idade: 19
+CPF: 137
+Curso: Comp
+Matricula: 4040
+
+Dados do Aluno
+Nome: Helen
+Idade: 19
+CPF: 136
+Curso: Arq
+Matricula: 1262
+
+Dados do Aluno
+Nome: Maycon
+Idade: 20
+CPF: 138
+Curso: Bio
+Matricula: 2023
+
+__________MENU DE OPÇÕES__________
+01 - Inserir novo aluno
+02 - Remover dados do aluno
+03 - Atualizar dados do aluno
+04 - Buscar aluno por matricula
+05 - Imprimir alunos cadastrados
+00 - Sair 
+Escolha: 
+
+01 - Questão AVL
+02 - Questão Hash
+00 - Sair
